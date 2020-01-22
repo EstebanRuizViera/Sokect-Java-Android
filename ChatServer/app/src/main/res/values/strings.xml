@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChatClient</string>
+    <string name="login_email">Email :</string>
+    <string name="login_password">Password :</string>
+    <string name="email_user">Email</string>
+    <string name="login_button">login</string>
+    <string name="register_button">Register</string>
+    <string name="register_text_login">Don\'t have an account?</string>
+    <string name="register2_text_login">Sign up here</string>
+    <string name="register_accept_button">register</string>
+    <string name="name_register">Name</string>
+    <string name="password_register">Password</string>
+</resources>
